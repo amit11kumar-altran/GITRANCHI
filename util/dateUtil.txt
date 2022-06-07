@@ -1,3 +1,3 @@
 Common File for date Now updated by second branch to test merge conflict
-2nd Branch updated
+2nd Branch
 1st branch
